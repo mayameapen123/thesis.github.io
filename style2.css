@@ -1,0 +1,53 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+font-family: 'EB Garamond', serif;
+  font-weight: normal;
+  font-size: 40px;
+  margin-bottom: 40px;
+  margin-top: 10px;
+  margin-left: 40px;
+  margin-top: 190px;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+}
+.indexx {
+  position: absolute;
+  top: 100px;
+  height: 500px;
+  width: 4000px;
+ 
+  z-index:0;
+}
+
+.indexx2 {
+  position: relative;
+
+  right:10px;
+width: 4000px;
+  
+  z-index:1;
+}
+.vline{
+  position: absolute;
+  top: 100px;
+  height: 230px;
+  width: 1px;
+  background-color: white;
+}
+
+video {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.hh {
+  background-color: black;
+}
